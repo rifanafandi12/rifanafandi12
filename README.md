@@ -46,13 +46,11 @@
 
 <br>
 
-<div align="center">
-  <h3>CURRENTLY LISTENING</h3>
-  <a href="https://open.spotify.com/user/31ub7xdqlswcn5i2etp5elasie7m">
-    <!-- GANTI tulisan [URL_VERCEL_KAMU] dengan domain Vercel yang baru di-copy -->
-    <img src="https://spotify-live-widget-c1vi.vercel.app/api/view?theme=tokyonight&bar_color=3B82F6" alt="Spotify Now Playing" />
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ub7xdqlswcn5i2etp5elasie7m&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ub7xdqlswcn5i2etp5elasie7m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true">
   </a>
-</div>
+</p>
 
 <br>
 
