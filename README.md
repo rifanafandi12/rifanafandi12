@@ -41,10 +41,7 @@
   
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifanafandi12&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&radius=10&color=3B82F6" width="97%" />
-</div>
 
-<br>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ub7xdqlswcn5i2etp5elasie7m&redirect=true">
