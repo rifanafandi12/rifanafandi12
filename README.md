@@ -12,6 +12,17 @@
 
 <br>
 
+<div align="center">
+  <a href="https://wakatime.com/@1b295f82-2fec-4b3d-854b-0e126feb68a7">
+    <img src="https://wakatime.com/badge/user/1b295f82-2fec-4b3d-854b-0e126feb68a7.svg" alt="Total time coded since Oct 15 2026" />
+  </a>
+  <a href="https://github.com/rifanafandi12?tab=followers">
+    <img src="https://img.shields.io/github/followers/rifanafandi12?logo=github&style=plastic" alt="github followers" />
+  </a>
+</div>
+
+<br>
+
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="35%" align="center" valign="top" style="border: none;">
@@ -56,10 +67,6 @@
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifanafandi12&theme=tokyonight" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rifanafandi12&theme=tokyonight&utcOffset=8" width="48%" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GANTI_DENGAN_USERNAME_WAKATIME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" width="48%" />
 </div>
 
 <br>
