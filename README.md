@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0D1117&height=180&section=header&text=Muhammad%20Rifan%20Afandi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20System%20Admin&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0D1117&height=180&section=header&text=Muhammad%20Rifan%20Afandi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20System%20Admin%20%7C%20Teacher&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;System+Administrator;Building+Scalable+Architectures;Linux+%7C+Docker+%7C+Laravel+%7C+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;System+Administrator;Teacher+at+SMKS+Nurul+Amalia;Linux+%7C+Docker+%7C+Laravel+%7C+React" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@
     <td width="35%" align="center" valign="top" style="border: none;">
       <img src="https://avatars.githubusercontent.com/u/112689388?v=4" width="170" style="border-radius: 50%; border: 3px solid #3B82F6; box-shadow: 0 0 15px rgba(59, 130, 246, 0.3);" />
       <h3>SOFTWARE ENGINEER<br>& SYSTEM ADMIN</h3>
-      <p align="center">Building scalable architectures and managing secure infrastructures.</p>
+      <p align="center">Building scalable architectures, managing secure infrastructures, and teaching the next generation of developers.</p>
       <br>
       <a href="https://rifanafandi.my.id"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=3B82F6&border=3B82F6" /></a>
       <a href="mailto:muhammadrifanafandi@gmail.com"><img src="https://img.shields.io/badge/Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=3B82F6&border=3B82F6" /></a>
@@ -38,6 +38,7 @@
       <h3>CURRENT FOCUS & STACK</h3>
       <code>Architecture</code> Clean Architecture, RESTful APIs, MVC<br>
       <code>Education</code> Informatics Engineering, STMIK Pelita Nusantara<br>
+      <code>Teaching</code> Guru at SMKS Nurul Amalia<br>
       <code>Environment</code> Linux, Docker, Tailwind, Laravel, React<br>
       <br>
       <a href="https://skillicons.dev">
@@ -52,8 +53,6 @@
 </table>
 
 <br>
-
-
 
 <div align="center">
   <h3>SYSTEM ANALYTICS</h3>
@@ -100,7 +99,6 @@
 
 <br>
 
-<!-- opsional: hapus kalau tidak mau -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
