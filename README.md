@@ -49,7 +49,8 @@
 <div align="center">
   <h3>CURRENTLY LISTENING</h3>
   <a href="https://open.spotify.com/user/31ub7xdqlswcn5i2etp5elasie7m">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ub7xdqlswcn5i2etp5elasie7m&cover_image=true&theme=tokyonight&bar_color=3B82F6&bar_color_cover=false" alt="Spotify Now Playing" />
+    <!-- GANTI tulisan [URL_VERCEL_KAMU] dengan domain Vercel yang baru di-copy -->
+    <img src="https://spotify-live-widget-c1vi.vercel.app/api/view?theme=tokyonight&bar_color=3B82F6" alt="Spotify Now Playing" />
   </a>
 </div>
 
