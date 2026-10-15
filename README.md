@@ -72,7 +72,7 @@
   
   <br><br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifanafandi12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true" width="100%" />
+
 </div>
 
 <br>
