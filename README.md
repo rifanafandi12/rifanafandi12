@@ -4,6 +4,14 @@
 
 <br>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;System+Administrator;Building+Scalable+Architectures;Linux+%7C+Docker+%7C+Laravel+%7C+React" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="35%" align="center" valign="top" style="border: none;">
@@ -34,14 +42,39 @@
 <br>
 
 <div align="center">
-  <h3>SYSTEM ANALYTICS & ACTIVITY</h3>
+  <h3>SYSTEM ANALYTICS</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=rifanafandi12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rifanafandi12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rifanafandi12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&hide_rank=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=rifanafandi12&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" />
   
   <br><br>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifanafandi12&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifanafandi12&theme=tokyonight" width="48%" />
+  
+  <br><br>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifanafandi12&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rifanafandi12&theme=tokyonight&utcOffset=8" width="48%" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GANTI_DENGAN_USERNAME_WAKATIME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" width="48%" />
+</div>
 
+<br>
 
+<div align="center">
+  <h3>CONTRIBUTION ACTIVITY</h3>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifanafandi12/rifanafandi12/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifanafandi12/rifanafandi12/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rifanafandi12/rifanafandi12/output/github-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ub7xdqlswcn5i2etp5elasie7m&redirect=true">
