@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=MUHAMMAD%20RIFAN%20AFANDI&fontSize=40&fontColor=3B82F6" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0D1117&height=180&section=header&text=Muhammad%20Rifan%20Afandi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20System%20Admin&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 <br>
@@ -14,11 +14,12 @@
 
 <div align="center">
   <a href="https://wakatime.com/@1b295f82-2fec-4b3d-854b-0e126feb68a7">
-    <img src="https://wakatime.com/badge/user/1b295f82-2fec-4b3d-854b-0e126feb68a7.svg" alt="Total time coded since Oct 15 2026" />
+    <img src="https://wakatime.com/badge/user/1b295f82-2fec-4b3d-854b-0e126feb68a7.svg" alt="Total time coded" />
   </a>
   <a href="https://github.com/rifanafandi12?tab=followers">
     <img src="https://img.shields.io/github/followers/rifanafandi12?logo=github&style=plastic" alt="github followers" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=rifanafandi12&style=for-the-badge&color=3B82F6&labelColor=0D1117&label=PROFILE+VIEWS" />
 </div>
 
 <br>
@@ -52,6 +53,8 @@
 
 <br>
 
+
+
 <div align="center">
   <h3>SYSTEM ANALYTICS</h3>
   
@@ -67,6 +70,10 @@
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifanafandi12&theme=tokyonight" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rifanafandi12&theme=tokyonight&utcOffset=8" width="48%" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifanafandi12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true" width="100%" />
 </div>
 
 <br>
@@ -83,14 +90,42 @@
 
 <br>
 
-<p align="center">
+<div align="center">
+  <h3>NOW PLAYING</h3>
+  
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ub7xdqlswcn5i2etp5elasie7m&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ub7xdqlswcn5i2etp5elasie7m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true">
   </a>
-</p>
+</div>
+
+<br>
+
+<!-- opsional: hapus kalau tidak mau -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=20&section=footer" width="100%" />
+  <h3>CONNECT WITH ME</h3>
+  
+  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/USERNAME_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/USERNAME_IG">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:muhammadrifanafandi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3B82F6&height=100&section=footer" width="100%" />
 </div>
