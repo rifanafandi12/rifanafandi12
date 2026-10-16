@@ -108,13 +108,10 @@
 <div align="center">
   <h3>CONNECT WITH ME</h3>
   
-  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN">
+  <a href="https://www.linkedin.com/in/m-rifan-afandi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/USERNAME_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/USERNAME_IG">
+  <a href="https://instagram.com/mrifandi13">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:muhammadrifanafandi@gmail.com">
